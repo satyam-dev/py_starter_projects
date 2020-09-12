@@ -9,6 +9,7 @@ autopep8 = "*"
 
 [packages]
 requests = "*"
+twilio = "*"
 
 [requires]
 python_version = "3.8"
