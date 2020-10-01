@@ -1,7 +1,7 @@
 # Python Starter Projects:
 Collection of simple python projects with various usecases.
 
-## Contains - 
+## Includes - 
 1. `yelp_app.py` : Utilises **Yelp** APIs to list out high rated businesses in a given location. Example - High rated Barbers in NYC
 2. `twilio_app.py` : Utilises **Twilio** APIs to send sms to a given phone number
 
